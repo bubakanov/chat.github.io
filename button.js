@@ -1,13 +1,13 @@
-<link type="text/css" rel="stylesheet" href="https://supporttest5x.brightpattern.com/clientweb/chat-client-v4/css/form.css">
+<link type="text/css" rel="stylesheet" href="https://bubakanov01.bugfocus.com/clientweb/chat-client-v4/css/form.css">
 <script type="text/javascript">
     SERVICE_PATTERN_CHAT_CONFIG = {
-        appId: '97508d420276497384eafac1d69985cf',
-        apiUrl: 'https://supporttest5x.brightpattern.com/clientweb/api/v1',
-        tenantUrl: 'supporttest5x.brightpattern.com',
-        chatPath: 'https://supporttest5x.brightpattern.com/clientweb/chat-client-v4/'
+        appId: 'b1a2ba80-a912-444d-97e8-dee9a78c75ac',
+        apiUrl: 'https://bubakanov01.bugfocus.com/clientweb/api/v1',
+        tenantUrl: 'example.com',
+        chatPath: 'https://bubakanov01.bugfocus.com/clientweb/chat-client-v4/'
     };
 </script>
-<script src="https://supporttest5x.brightpattern.com/clientweb/chat-client-v4/js/init.js"></script> 
+<script src="https://bubakanov01.bugfocus.com/clientweb/chat-client-v4/js/init.js"></script> 
 <button class="js-opens-chat">Chat</button>
 <script type="text/javascript">
   ;(function() {
